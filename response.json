@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "title": "IP Routing Fundamentals",
+        "author": "Mark A. Sportack",
+        "isbn": "978-1578700714"
+    },
+    {
+        "id": 1,
+        "title": "Python for Dummies",
+        "author": "Stef Maruch Aahz Maruch",
+        "isbn": "978-0471778646"
+    },
+    {
+        "id": 2,
+        "title": "Linux for Networkers",
+        "author": "Cisco Systems Inc.",
+        "isbn": "000-0000000123"
+    },
+    {
+        "id": 3,
+        "title": "NetAcad: 20 Years Of Online-Learning",
+        "author": "Cisco Systems Inc.",
+        "isbn": "000-0000001123"
+    },
+    {
+        "id": 4,
+        "title": "Intuitive holistic paradigm",
+        "author": "Darius Rogers",
+        "isbn": "978-0-679-58882-5"
+    },
+    {
+        "id": 5,
+        "title": "Function-based 3rdgeneration system engine",
+        "author": "Nathan Parks",
+        "isbn": "978-1-163-95770-7"
+    },
+    {
+        "id": 6,
+        "title": "Digitized local analyzer",
+        "author": "Mr. Mark Jefferson",
+        "isbn": "978-1-5224-4260-8"
+    },
+    {
+        "id": 7,
+        "title": "Balanced 24/7 product",
+        "author": "Dr. Sherri Villarreal",
+        "isbn": "978-0-689-26387-3"
+    },
+    {
+        "id": 8,
+        "title": "Diverse 5thgeneration adapter",
+        "author": "Matthew Ford",
+        "isbn": "978-0-8163-3770-5"
+    },
+    {
+        "id": 9,
+        "title": "Upgradable dynamic process improvement",
+        "author": "Tracy Lindsey",
+        "isbn": "978-0-8402-8124-1"
+    }
+]
